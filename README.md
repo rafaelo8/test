@@ -1,6 +1,6 @@
 # test
 
-Sure, here is a simple README file for a testing tutorial for adding two numbers and testing it with Jest framework for GitHub:
+Written with help of https://g.co/bard/share/7480b82485cf
 
 ## Adding Two Numbers and Testing with Jest
 
